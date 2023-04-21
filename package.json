@@ -1,0 +1,12 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cowsay": "cowsay"
+  },
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
