@@ -1,3 +1,5 @@
 # node-cowsay
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-kkwcb1)
+[Edit on StackBlitz ⚡️](https://stackblitz.com)
+
+Meu exe cowsay

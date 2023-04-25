@@ -5,3 +5,5 @@ console.log(
     text: process.argv?.at(2) || 'diga algo!',
   })
 );
+
+console.log('teste');
